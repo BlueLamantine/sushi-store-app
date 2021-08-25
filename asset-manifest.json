@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/sushi-store-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/sushi-store-app/static/js/main.487bcdca.chunk.js",
-    "main.js.map": "/sushi-store-app/static/js/main.487bcdca.chunk.js.map",
-    "runtime-main.js": "/sushi-store-app/static/js/runtime-main.15dee7e6.js",
-    "runtime-main.js.map": "/sushi-store-app/static/js/runtime-main.15dee7e6.js.map",
-    "static/js/2.d901af76.chunk.js": "/sushi-store-app/static/js/2.d901af76.chunk.js",
-    "static/js/2.d901af76.chunk.js.map": "/sushi-store-app/static/js/2.d901af76.chunk.js.map",
-    "static/js/3.a193fb56.chunk.js": "/sushi-store-app/static/js/3.a193fb56.chunk.js",
-    "static/js/3.a193fb56.chunk.js.map": "/sushi-store-app/static/js/3.a193fb56.chunk.js.map",
+    "main.css": "/sushi-store-app/static/css/main.4b987c1f.chunk.css",
+    "main.js": "/sushi-store-app/static/js/main.472a4619.chunk.js",
+    "main.js.map": "/sushi-store-app/static/js/main.472a4619.chunk.js.map",
+    "runtime-main.js": "/sushi-store-app/static/js/runtime-main.5efab1dc.js",
+    "runtime-main.js.map": "/sushi-store-app/static/js/runtime-main.5efab1dc.js.map",
+    "static/js/2.c1f977b9.chunk.js": "/sushi-store-app/static/js/2.c1f977b9.chunk.js",
+    "static/js/2.c1f977b9.chunk.js.map": "/sushi-store-app/static/js/2.c1f977b9.chunk.js.map",
     "index.html": "/sushi-store-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/sushi-store-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d901af76.chunk.js.LICENSE.txt": "/sushi-store-app/static/js/2.d901af76.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sushi-store-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.4b987c1f.chunk.css.map": "/sushi-store-app/static/css/main.4b987c1f.chunk.css.map",
+    "static/js/2.c1f977b9.chunk.js.LICENSE.txt": "/sushi-store-app/static/js/2.c1f977b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.15dee7e6.js",
-    "static/js/2.d901af76.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.487bcdca.chunk.js"
+    "static/js/runtime-main.5efab1dc.js",
+    "static/js/2.c1f977b9.chunk.js",
+    "static/css/main.4b987c1f.chunk.css",
+    "static/js/main.472a4619.chunk.js"
   ]
 }
