@@ -1,6 +1,20 @@
+import { useContext } from 'react';
 import SushiForm from './SushiItemForm';
-const SushiItem = ({ name, desc, price }) => {
+import CartContext from '../../store/cart-context';
+
+const SushiItem = ({ id, name, desc, price }) => {
+  const cartCtx = useContext(CartContext);
   const formatPrice = `$${price.toFixed(2)}`;
+
+  const addToCardHandler = amount => {
+    cartCtx.addItem({
+      id: id,
+      name: name,
+      amount: amount,
+      price: price,
+    });
+  };
+
   return (
     <li className="container flex justify-between items-center p-3">
       <div className="pr-10 flex flex-col items-start">
@@ -9,7 +23,7 @@ const SushiItem = ({ name, desc, price }) => {
       </div>
       <div className="pl-20">{formatPrice}</div>
       <div>
-        <SushiForm />
+        <SushiForm onAddToCart={addToCardHandler} />
       </div>
     </li>
   );

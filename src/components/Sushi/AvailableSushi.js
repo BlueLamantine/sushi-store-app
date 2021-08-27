@@ -29,6 +29,7 @@ const AvailableSushi = () => {
           {SUSHI.map(el => (
             <SushiItem
               key={el.id}
+              id={el.id}
               name={el.name}
               desc={el.desc}
               price={el.price}
