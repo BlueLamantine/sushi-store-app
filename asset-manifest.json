@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sushi-store-app/static/css/main.4b987c1f.chunk.css",
-    "main.js": "/sushi-store-app/static/js/main.472a4619.chunk.js",
-    "main.js.map": "/sushi-store-app/static/js/main.472a4619.chunk.js.map",
+    "main.css": "/sushi-store-app/static/css/main.e7259ad3.chunk.css",
+    "main.js": "/sushi-store-app/static/js/main.9ae5e231.chunk.js",
+    "main.js.map": "/sushi-store-app/static/js/main.9ae5e231.chunk.js.map",
     "runtime-main.js": "/sushi-store-app/static/js/runtime-main.5efab1dc.js",
     "runtime-main.js.map": "/sushi-store-app/static/js/runtime-main.5efab1dc.js.map",
-    "static/js/2.c1f977b9.chunk.js": "/sushi-store-app/static/js/2.c1f977b9.chunk.js",
-    "static/js/2.c1f977b9.chunk.js.map": "/sushi-store-app/static/js/2.c1f977b9.chunk.js.map",
+    "static/js/2.99bba281.chunk.js": "/sushi-store-app/static/js/2.99bba281.chunk.js",
+    "static/js/2.99bba281.chunk.js.map": "/sushi-store-app/static/js/2.99bba281.chunk.js.map",
     "index.html": "/sushi-store-app/index.html",
-    "static/css/main.4b987c1f.chunk.css.map": "/sushi-store-app/static/css/main.4b987c1f.chunk.css.map",
-    "static/js/2.c1f977b9.chunk.js.LICENSE.txt": "/sushi-store-app/static/js/2.c1f977b9.chunk.js.LICENSE.txt"
+    "static/css/main.e7259ad3.chunk.css.map": "/sushi-store-app/static/css/main.e7259ad3.chunk.css.map",
+    "static/js/2.99bba281.chunk.js.LICENSE.txt": "/sushi-store-app/static/js/2.99bba281.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5efab1dc.js",
-    "static/js/2.c1f977b9.chunk.js",
-    "static/css/main.4b987c1f.chunk.css",
-    "static/js/main.472a4619.chunk.js"
+    "static/js/2.99bba281.chunk.js",
+    "static/css/main.e7259ad3.chunk.css",
+    "static/js/main.9ae5e231.chunk.js"
   ]
 }
